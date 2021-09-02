@@ -1,0 +1,96 @@
+{
+  "s2": [
+    {
+      "id": "505ae8d3-f5b9-4089-96e1-7102490e0886",
+      "user": "s2",
+      "pickupLocation": "USA",
+      "dropLocation": "UK",
+      "pickedDate": "2021-09-01T20:01:07.529Z",
+      "deliveredDate": "",
+      "status": "Picked",
+      "pickerId": "p2"
+    },
+    {
+      "id": "b9dd8e2f-c0ac-4f2a-861d-c1caa4b04de4",
+      "user": "s2",
+      "pickupLocation": "IN",
+      "dropLocation": "US",
+      "pickedDate": "2021-09-01T21:26:01.021Z",
+      "deliveredDate": "2021-09-01T21:26:13.935Z",
+      "status": "Delivered",
+      "pickerId": "p5"
+    },
+    {
+      "id": "1a910223-2cdd-4ee2-987d-9217ae394a83",
+      "user": "s2",
+      "pickupLocation": "IN",
+      "dropLocation": "USA",
+      "pickedDate": "2021-09-01T21:15:16.473Z",
+      "deliveredDate": "",
+      "status": "Picked",
+      "pickerId": "p2"
+    },
+    {
+      "id": "3efed98f-3608-4113-851b-6f9f4f2d69bc",
+      "user": "s2",
+      "pickupLocation": "IN",
+      "dropLocation": "US",
+      "pickedDate": "2021-09-01T21:21:15.853Z",
+      "deliveredDate": "",
+      "status": "Picked",
+      "pickerId": "p5"
+    },
+    {
+      "id": "08753b7f-7355-4025-8395-42dfefe98b92",
+      "user": "s2",
+      "pickupLocation": "IN",
+      "dropLocation": "US",
+      "pickedDate": "",
+      "deliveredDate": "",
+      "status": "New",
+      "pickerId": ""
+    },
+    {
+      "id": "38973c07-4909-45e3-8db0-ba39b7e89a31",
+      "user": "s2",
+      "pickupLocation": "Bangalore, India",
+      "dropLocation": "Mysore, India",
+      "pickedDate": "2021-09-02T05:52:20.570Z",
+      "deliveredDate": "2021-09-02T05:52:24.608Z",
+      "status": "Delivered",
+      "pickerId": "p1"
+    }
+  ],
+  "s1": [
+    {
+      "id": "ec3f1081-cbb4-434c-984a-61aebe6e09ce",
+      "user": "s1",
+      "pickupLocation": "India",
+      "dropLocation": "Canada",
+      "pickedDate": "2021-09-01T21:26:44.258Z",
+      "deliveredDate": "",
+      "status": "Picked",
+      "pickerId": "p5"
+    },
+    {
+      "id": "8fb0d96c-d5d2-41b7-bbf1-8293a36d3d57",
+      "user": "s1",
+      "pickupLocation": "IN",
+      "dropLocation": "US",
+      "pickedDate": "2021-09-02T06:10:34.914Z",
+      "deliveredDate": "",
+      "status": "Picked",
+      "pickerId": "p1"
+    },
+    {
+      "id": "7d780373-d846-481d-82f8-0a69d37d6b9c",
+      "user": "s1",
+      "pickupLocation": "IN",
+      "dropLocation": "USA",
+      "pickedDate": "2021-09-02T06:12:58.434Z",
+      "deliveredDate": "2021-09-02T06:13:11.184Z",
+      "status": "Delivered",
+      "pickerId": "p1"
+    }
+  ]
+}
